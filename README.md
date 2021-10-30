@@ -15,9 +15,12 @@
 
 ### 사용한 툴, 도구
 
-- JavaScript, Jquery 
 - JAVA(IntelliJ, Spring Boot), HTML5, CSS3(VS code), database (Maria db)
 
+### 사용한 언어, 라이브러리
+
+- Java(Back-end), HTML5, CSS3, Javascript(front-end)
+- JavaScript, Jquery
 
 
 ### 시퀀스 다이어그램
